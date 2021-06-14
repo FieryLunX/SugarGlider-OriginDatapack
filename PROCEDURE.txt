@@ -1,0 +1,18 @@
+To install this datapack to your Minecraft world, make sure that you have the required mod installed.
+
+- Origin Mod (Fabric)
+- Pehkui Mod
+
+Origin Mod is used as the base of the datapack on which Sugar Glider will be added. 
+Pehkui Mod is used to resize the player specifically here used as a Sugar Glider.
+
+How to place datapack in your Minecraft World?
+
+1. Install the SugarGlider.zip file and copy the file
+2. Go to [.minecraft] folder, you can access through typing %appdata% into the address bar
+3. Open the [saves] folder
+4. Select the world you will be playing in
+5. Go to [datapacks] and then paste the zip file here
+
+
+If you are playing in a multiplayer world, ask the host to install the datapack and do the same thing.
