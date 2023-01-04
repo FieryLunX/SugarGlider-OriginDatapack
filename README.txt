@@ -23,4 +23,4 @@ Powers:
 - Fragile
  [You have 4 less heart than human]
 
-You don't take fall damage as a sugar glider. Also this is my first datapack I made. If there are any problem please do tell me through discord FieryLunX #1123
+You don't take fall damage as a sugar glider. Also this is my first datapack I made. If there are any problem please do tell me through discord XyrNovaris#2622
