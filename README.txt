@@ -1,3 +1,5 @@
+Edit: This was for version 1.16.5, I don't know if it would still work with the newest versions.
+
 This is an additional datapack for the Origin Mod in Minecraft Java Edition.
 
 Requirement:
